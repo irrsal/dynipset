@@ -1,0 +1,13 @@
+{
+	"timeout": 600,
+	"set4": "admin-4",
+	"set6": "admin-6",
+	"hosts": [
+		{
+			"fqdn": "myhost.ddns.net"
+		},
+		{
+			"fqdn": "cloudflare.com"
+		}
+	]
+}

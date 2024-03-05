@@ -1,0 +1,10 @@
+[Unit]
+Description=DynIPSet timer
+
+[Timer]
+OnBootSec=10
+OnCalendar=*:0/5
+Unit=dynipset.service
+
+[Install]
+WantedBy=timers.target
