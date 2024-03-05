@@ -56,4 +56,3 @@ do
 		add_set $SET6 $IP6ADDR
 	done
 done
-
